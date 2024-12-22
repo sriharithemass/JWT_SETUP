@@ -11,7 +11,7 @@
 	<groupId>com.secure</groupId>
 	<artifactId>spring-jwt-setup</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>notes</name>
+	<name>JWT_SETUP</name>
 	<description>Spring JWT Setup</description>
 	<properties>
 		<java.version>21</java.version>
